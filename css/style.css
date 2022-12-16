@@ -2497,7 +2497,7 @@ textarea.input {
   font-weight: 700;
   letter-spacing: 0.03em;
   line-height: 1.875;
-  color: #000;
+  color: #FFFFFF;
   position: relative;
 }
 
@@ -2510,7 +2510,7 @@ textarea.input {
   height: 100%;
   border-radius: 1.25rem;
   z-index: -1;
-  background-color: rgba(255, 255, 255, 0.4);
+  background-color: rgba(255, 255, 255, 0.24);
 }
 
 .intro {
@@ -4958,7 +4958,7 @@ textarea.input {
 
   .rule-main__starts {
     padding: 0.5rem;
-    color: #fff;
+    
   }
 
   .rule-main__starts::before {
