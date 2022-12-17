@@ -2265,8 +2265,8 @@ textarea.input {
 
 .main__decor {
   position: absolute;
-  left: 8.57%;
-  top: 22.26%;
+  left: 6.57%;
+  top: 16.26%;
   -webkit-transform: rotate(-50.94deg);
       -ms-transform: rotate(-50.94deg);
           transform: rotate(-50.94deg);
@@ -2497,7 +2497,7 @@ textarea.input {
   font-weight: 700;
   letter-spacing: 0.03em;
   line-height: 1.875;
-  color: #FFFFFF;
+  color: #000;
   position: relative;
 }
 
@@ -4958,7 +4958,7 @@ textarea.input {
 
   .rule-main__starts {
     padding: 0.5rem;
-    
+    color: #fff;
   }
 
   .rule-main__starts::before {
