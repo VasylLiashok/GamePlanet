@@ -2265,8 +2265,8 @@ textarea.input {
 
 .main__decor {
   position: absolute;
-  left: 6.57%;
-  top: 16.26%;
+  left: 8.57%;
+  top: 22.26%;
   -webkit-transform: rotate(-50.94deg);
       -ms-transform: rotate(-50.94deg);
           transform: rotate(-50.94deg);
@@ -2510,7 +2510,7 @@ textarea.input {
   height: 100%;
   border-radius: 1.25rem;
   z-index: -1;
-  background-color: rgba(255, 255, 255, 0.24);
+  background-color: rgba(255, 255, 0, 0.64);
 }
 
 .intro {
